@@ -17,4 +17,5 @@ The models were evaluated using accuracy as reported by the classification repor
 
 # Results 
 ![image](https://github.com/user-attachments/assets/fdea9510-5eff-4ad5-808f-4fdcd08f9c19)
+
 EfficientNet B2 achieved perfect accuracy for this classification task, largely due to its ability to handle complex image problems and its training on large datasets. Even when data augmentation was applied, the model maintained 100% accuracy.
